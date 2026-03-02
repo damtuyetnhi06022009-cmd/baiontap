@@ -1,4 +1,4 @@
-import LetterItem, { useEffect } from "./Letteritem";
+import LetterItem from "./Letteritem";
 
 function LetterList({ letters }) {
     return (
