@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function LetterForm({ onAdd }) {
-  const [Text, seText] = useState("");
+  const [Text, setText] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
