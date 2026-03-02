@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"sách"
+    },
+    {
+        "id":2,
+        "name":"sách văn học"
+    },
+    {
+        "id":3,
+        "name":"sách Kinh tế"
+    },
+    {
+        "id":4,
+        "name":"sách tâm lý"
+    },
+    {
+        "id":5,
+        "name":"sách Kỹ năng sống"
+    },
+    {
+        "id":6,
+        "name":"sách học ngoại ngữ"
+    },
+    {
+        "id":7,
+        "name":"sách khoa học kỹ thuật"
+    },
+    {
+        "id":8,
+        "name":"sách văn hoá"
+    },
+    {
+        "id":9,
+        "name":"sách du lịch"
+    },
+    {
+        "id":8,
+        "name":"sách thời trang"
+    }
+]
